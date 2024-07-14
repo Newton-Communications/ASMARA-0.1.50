@@ -1,0 +1,8 @@
+https://github.com/Newton-Communications/E2T/archive/refs/heads/main.zip
+https://github.com/Newton-Communications/EG/archive/refs/heads/main.zip
+https://github.com/Newton-Communications/python-discord-webhook/archive/refs/heads/master.zip
+numpy
+pyaudio
+pydub
+requests
+plyer

@@ -1,0 +1,10 @@
+# Ignore
+.log
+.config
+tmp
+__pycache__
+*.wav
+test.*
+
+# Allow
+test.ico
