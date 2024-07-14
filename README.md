@@ -7,7 +7,7 @@ This version was decompiled from a binary that was sent out by Global Weather & 
 
 Special thanks to Jon, Marley and Aaron for helping me with this project and getting it to work.
 
-This version has a menu that is a lot easier to use than the current version of the project and the code is a LOT less clunky and is significantly easier to understand than the old version.
+This version has a menu that is a lot easier to use than the current version of the project and the code is a LOT less clunky and is significantly easier to understand than the new version.
 
 This is version 0.1.50, the version A-c0rN has is 0.1.69, this version is when the software was referred to as "ERNDEC" and predates it being renamed to "ASMARA."
 
